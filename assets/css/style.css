@@ -816,7 +816,7 @@ g.Header {
 .list-unstyled {
     padding-left: 0;
     list-style: none;
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 .portfolio_sec .ul-filter li {
