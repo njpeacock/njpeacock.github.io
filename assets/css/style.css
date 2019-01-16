@@ -813,6 +813,12 @@ g.Header {
     margin-bottom: 30px;
 }
 
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+    color: #ffffff;
+}
+
 .portfolio_sec .ul-filter li {
     display: inline-block;
     position: relative;
